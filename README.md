@@ -1,2 +1,3 @@
 # java-training
-A java training project
+
+Un petit projet pour apprendre java
